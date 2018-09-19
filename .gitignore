@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/CFAF240400A0030T/__vm
+/CFAF240400A0030T/CFAF240400A0030T.vcxproj.user
+/CFAF240400A0030T/CFAF240400A0030T.vcxproj.filters
+/CFAF240400A0030T/CFAF240400A0030T.vcxproj
+/CFAF240400A0030T/.vs/CFAF240400A0030T/v15
+/CFAF240400A0030T.sln

@@ -7,7 +7,6 @@
 //  https://www.crystalfontz.com/product/cfaf240400a0030t
 //
 //  The controller is a Ilitek ILI9327
-//TODO: add link once created
 //    https://www.crystalfontz.com/controllers/Ilitek/ILI9327/
 //
 //  Seeeduino v4.2, an open-source 3.3v capable Arduino clone.
